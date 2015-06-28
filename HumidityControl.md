@@ -12,4 +12,4 @@ Maintain humidity in a room by connecting humidity sensor with humidifier and de
 
 # How to use
 1. Follow <a href=https://www.youtube.com/watch?v=D6rG4mk164M&feature=youtu.be>YouTube</a> instruction to install this SmartApp
-2. Copy code from HumidityControl.groovy
+2. Copy code from <a href=https://github.com/vvbox/SmartThings/blob/master/HumidityControl.groovy>HumidityControl.groovy</a>
